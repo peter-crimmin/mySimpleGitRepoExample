@@ -1,0 +1,2 @@
+# mySimpleGitRepoExample
+playground for learning
